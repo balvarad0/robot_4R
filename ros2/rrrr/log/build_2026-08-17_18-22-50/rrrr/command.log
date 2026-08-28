@@ -1,0 +1,4 @@
+Invoking command in '/home/almc/ros2_ws/src/rrrr/build/rrrr': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/almc/ros2_ws/src/rrrr/build/rrrr -- -j12 -l12
+Invoked command in '/home/almc/ros2_ws/src/rrrr/build/rrrr' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/almc/ros2_ws/src/rrrr/build/rrrr -- -j12 -l12
+Invoking command in '/home/almc/ros2_ws/src/rrrr/build/rrrr': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/almc/ros2_ws/src/rrrr/build/rrrr
+Invoked command in '/home/almc/ros2_ws/src/rrrr/build/rrrr' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/almc/ros2_ws/src/rrrr/build/rrrr

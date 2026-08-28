@@ -1,0 +1,29 @@
+[0.012s] Invoking command in '/home/almc/ros2_ws/src/rrrr/build/rrrr': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/almc/ros2_ws/src/rrrr/build/rrrr -- -j12 -l12
+[0.066s] Invoked command in '/home/almc/ros2_ws/src/rrrr/build/rrrr' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/almc/ros2_ws/src/rrrr/build/rrrr -- -j12 -l12
+[0.079s] Invoking command in '/home/almc/ros2_ws/src/rrrr/build/rrrr': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/almc/ros2_ws/src/rrrr/build/rrrr
+[0.089s] -- Install configuration: ""
+[0.090s] -- Execute custom install script
+[0.090s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/urdf/rrrr.urdf
+[0.091s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/Base_link.STL
+[0.091s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/base_link.STL
+[0.091s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/link_1.STL
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/link_2.STL
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/link_3.STL
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/meshes/link_4.STL
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/launch/display.launch.py
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/ament_index/resource_index/package_run_dependencies/rrrr
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/ament_index/resource_index/parent_prefix_path/rrrr
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/environment/ament_prefix_path.sh
+[0.092s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/environment/ament_prefix_path.dsv
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/environment/path.sh
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/environment/path.dsv
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/local_setup.bash
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/local_setup.sh
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/local_setup.zsh
+[0.093s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/local_setup.dsv
+[0.093s] -- Symlinking: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/package.dsv
+[0.106s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/ament_index/resource_index/packages/rrrr
+[0.106s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/cmake/rrrrConfig.cmake
+[0.106s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/cmake/rrrrConfig-version.cmake
+[0.106s] -- Up-to-date symlink: /home/almc/ros2_ws/src/rrrr/install/rrrr/share/rrrr/package.xml
+[0.109s] Invoked command in '/home/almc/ros2_ws/src/rrrr/build/rrrr' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/almc/ros2_ws/src/rrrr/build/rrrr
